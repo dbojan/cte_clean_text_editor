@@ -1,2 +1,6 @@
-# cte_clean_text_editor
+# cte - clean text editor
+
+2026-07-22-15-46-26
+
 cte - clean text editor for xfce and the like envinronment, created using python + gtk3
+
