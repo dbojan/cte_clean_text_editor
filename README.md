@@ -10,3 +10,4 @@ features
 - mark pasted text
 - simple config
 - search and replace dialogs don't pick up random text
+- autosave
