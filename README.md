@@ -7,7 +7,7 @@ cte - clean text editor for xfce and the like envinronment, created using python
 ![cte](cte.png)
 
 
-features
+features:
 
 - simple design
 - mark pasted text with color
