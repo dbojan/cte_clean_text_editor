@@ -15,7 +15,7 @@ features:
 - search and replace dialogs don't pick up random text
 - autosave
 - regex support for search and replace
-- use F2 to add timestamp like this: 026-07-25-20-17-04
+- use F2 to add timestamp like this: 2026-07-25-20-17-04
 
 
 
