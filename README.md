@@ -10,7 +10,7 @@ cte - clean text editor for xfce and the like envinronment, created using python
 features:
 
 - simple design
-- mark pasted text with color
+- mark pasted text with color (temporarily)
 - simple config
 - search and replace dialogs don't pick up random text
 - autosave
