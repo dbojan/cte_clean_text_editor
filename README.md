@@ -1,6 +1,6 @@
 # cte - clean text editor
 
-2026-07-23-12-15-08
+2026-07-26-22-55-33
 
 cte - clean text editor for xfce and the like envinronment, created using python + gtk3
 
@@ -20,6 +20,9 @@ features:
 
 
 ## changes
+
+2026-07-26-22-55-33
+- bug fixes around search and replace dialogs
 
 2026-07-23-12-15-08
 - removed 'go to line combo box' from 'toolbar icons on by default'
