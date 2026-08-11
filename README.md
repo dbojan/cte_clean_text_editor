@@ -1,6 +1,6 @@
 # cte - clean text editor
 
-2026-07-30-15-00-37
+2026-08-11-14-35-06
 
 cte - clean text editor for xfce and the like envinronment, created using python + gtk3
 
@@ -20,6 +20,9 @@ features:
 
 
 ## changes
+
+2026-08-11-14-35-06
+- added . to indicate encoding and eol
 
 2026-07-30-15-00-37
 - added encodings and line endings menu
