@@ -1,6 +1,6 @@
 # cte - clean text editor
 
-2026-08-11-14-35-06
+2026-09-13-20-27-55
 
 cte - clean text editor for xfce and the like envinronment, created using python + gtk3
 
@@ -17,9 +17,19 @@ features:
 - regex support for search and replace
 - use F2 to add timestamp like this: 2026-07-25-20-17-04
 - encodings and line endings support
+- fixed detached window colors
 
 
 ## changes
+
+2026-09-13-20-27-55
+- convert newlines to spaces always remove empty lines first
+- added shortcuts f3, shift f3, to search next, search previous.
+- added file/reopen file, ctrl+shift+O
+- fixed detach window color coding, setting, undo history
+- added insert ordinal numbers (1. 2. 3. ..) for selected rows
+- fixed bug for last char deletion.
+- change order of buttons in search and replace window.
 
 2026-08-11-14-35-06
 - added . to indicate encoding and eol
