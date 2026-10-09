@@ -1,4 +1,4 @@
-# cte - clean text editor
+# cte - clean text editor for linux
 
 2026-09-22-12-50-20
 
