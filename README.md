@@ -1,6 +1,6 @@
 # cte - clean text editor for linux
 
-2026-10-16-08-37-58
+2026-10-16-09-16-28
 
 cte - clean text editor for xfce and the like envinronment, created using python + gtk3
 
@@ -21,6 +21,9 @@ features:
 
 
 ## changes
+
+2026-10-16-09-16-28
+- prefilled save as/save as copy filename
 
 2026-10-16-08-37-58
 - bugfixes on opening text files with one or more very long lines (>5000 chars)
