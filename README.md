@@ -1,6 +1,6 @@
 # cte - clean text editor for linux
 
-2026-09-22-12-50-20
+2026-10-16-08-37-58
 
 cte - clean text editor for xfce and the like envinronment, created using python + gtk3
 
@@ -21,6 +21,9 @@ features:
 
 
 ## changes
+
+2026-10-16-08-37-58
+- bugfixes on opening text files with one or more very long lines (>5000 chars)
 
 2026-09-22-12-50-20
 - no longer auto added quotes around %f/%e/%d/%p, for preferences/run commands. 
